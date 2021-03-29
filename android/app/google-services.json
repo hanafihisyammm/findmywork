@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "294515168944",
+    "project_id": "findmywork-8793f",
+    "storage_bucket": "findmywork-8793f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294515168944:android:349517cf949ed762aecd75",
+        "android_client_info": {
+          "package_name": "com.example.find_my_work"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294515168944-3cej1gi0drlpevcdcu34qtp90es9sjuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHgpngmVrw0t9fnhJ_FRESepeS_8HLsu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294515168944-3cej1gi0drlpevcdcu34qtp90es9sjuk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "294515168944-rpvm2mdiosc4f3mbmqm7bd34q0ti3sec.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.findMyWork"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
